@@ -15,10 +15,13 @@
     <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/keylaunch-site/">
         <img src="../assets/profile-apps/keylaunch.png" width="76" height="76" alt="KeyLaunch icon"><br><br>
-        <code>KeyLaunch</code>
+        <code>KeyLaunch (键启)</code>
       </a>
       <br><br>
-      <sub>macOS 全局快捷键切换</sub>
+      <sub>
+        Shortcut & App Launcher<br>
+        快捷启动与调度
+      </sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/pauseloop-site/">
@@ -26,7 +29,10 @@
         <code>PauseLoop</code>
       </a>
       <br><br>
-      <sub>macOS 护眼与定时休息</sub>
+      <sub>
+        Focus & Break Timer<br>
+        专注与打卡提醒
+      </sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://englishcc.com">
@@ -34,7 +40,10 @@
         <code>English CC</code>
       </a>
       <br><br>
-      <sub>YouTube 英语字幕增强</sub>
+      <sub>
+        Dual Subtitles & Dictionary<br>
+        双语字幕与悬浮查词
+      </sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/side-stash/">
@@ -42,7 +51,10 @@
         <code>Side Stash</code>
       </a>
       <br><br>
-      <sub>浏览器侧边栏极速收集</sub>
+      <sub>
+        Side Panel Snippet Manager<br>
+        侧边栏片段暂存
+      </sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/highlight-share-site/">
@@ -50,7 +62,10 @@
         <code>Highlight Share</code>
       </a>
       <br><br>
-      <sub>网页金句卡片制作与导出</sub>
+      <sub>
+        Highlight & Card Exporter<br>
+        划词高亮生成分享
+      </sub>
     </td>
   </tr>
 </table>
