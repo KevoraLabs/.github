@@ -14,43 +14,58 @@
   <tr>
     <td align="center" width="20%" valign="top">
       <a href="https://lanrenwenstudio.github.io/keylaunch-site/">
-        <img src="https://raw.githubusercontent.com/LanrenwenStudio/.github/main/assets/profile-apps/keylaunch.png" width="80" height="80" alt="KeyLaunch icon"><br><br>
-        <code>KeyLaunch</code>
+        <img src="../assets/profile-apps/keylaunch.png" width="76" height="76" alt="KeyLaunch icon"><br><br>
+        <code>KeyLaunch (键启)</code>
       </a>
       <br><br>
-      <sub>macOS 全局快捷键切换</sub>
+      <sub>
+        Shortcut & App Launcher<br>
+        快捷启动与调度
+      </sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://lanrenwenstudio.github.io/pauseloop-site/">
-        <img src="https://raw.githubusercontent.com/LanrenwenStudio/.github/main/assets/profile-apps/pauseloop.png" width="80" height="80" alt="PauseLoop icon"><br><br>
+        <img src="../assets/profile-apps/pauseloop.png" width="76" height="76" alt="PauseLoop icon"><br><br>
         <code>PauseLoop</code>
       </a>
       <br><br>
-      <sub>macOS 护眼与定时休息</sub>
+      <sub>
+        Focus & Break Timer<br>
+        专注与打卡提醒
+      </sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://englishcc.com">
-        <img src="https://raw.githubusercontent.com/LanrenwenStudio/.github/main/assets/profile-apps/englishcc.png" width="80" height="80" alt="English CC icon"><br><br>
+        <img src="../assets/profile-apps/englishcc.png" width="76" height="76" alt="English CC icon"><br><br>
         <code>English CC</code>
       </a>
       <br><br>
-      <sub>YouTube 英语字幕增强</sub>
+      <sub>
+        Dual Subtitles & Dictionary<br>
+        双语字幕与悬浮查词
+      </sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://lanrenwenstudio.github.io/side-stash/">
-        <img src="https://raw.githubusercontent.com/LanrenwenStudio/.github/main/assets/profile-apps/side-stash.png" width="80" height="80" alt="Side Stash icon"><br><br>
+        <img src="../assets/profile-apps/side-stash.png" width="76" height="76" alt="Side Stash icon"><br><br>
         <code>Side Stash</code>
       </a>
       <br><br>
-      <sub>浏览器侧边栏极速收集</sub>
+      <sub>
+        Side Panel Snippet Manager<br>
+        侧边栏片段暂存
+      </sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://lanrenwenstudio.github.io/highlight-share-site/">
-        <img src="https://raw.githubusercontent.com/LanrenwenStudio/.github/main/assets/profile-apps/highlight-share.png" width="80" height="80" alt="Highlight Share icon"><br><br>
+        <img src="../assets/profile-apps/highlight-share.png" width="76" height="76" alt="Highlight Share icon"><br><br>
         <code>Highlight Share</code>
       </a>
       <br><br>
-      <sub>网页金句卡片制作与导出</sub>
+      <sub>
+        Highlight & Card Exporter<br>
+        划词高亮生成分享
+      </sub>
     </td>
   </tr>
 </table>
