@@ -1,8 +1,8 @@
 <div align="center">
 
-# KevoraLabs 🚀
+# Lanrenwen Studio 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=KevoraLabs;Indie+App+Studio;Building+High-Quality+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Lanrenwen+Studio;Indie+App+Studio;Building+High-Quality+Tools)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,16 +13,16 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="20%" valign="top">
-      <a href="https://kevoralabs.github.io/keylaunch-site/">
-        <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/keylaunch.png" width="80" height="80" alt="KeyLaunch icon"><br><br>
+      <a href="https://lanrenwenstudio.github.io/keylaunch-site/">
+        <img src="https://raw.githubusercontent.com/LanrenwenStudio/.github/main/assets/profile-apps/keylaunch.png" width="80" height="80" alt="KeyLaunch icon"><br><br>
         <code>KeyLaunch</code>
       </a>
       <br><br>
       <sub>macOS 全局快捷键切换</sub>
     </td>
     <td align="center" width="20%" valign="top">
-      <a href="https://kevoralabs.github.io/pauseloop-site/">
-        <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/pauseloop.png" width="80" height="80" alt="PauseLoop icon"><br><br>
+      <a href="https://lanrenwenstudio.github.io/pauseloop-site/">
+        <img src="https://raw.githubusercontent.com/LanrenwenStudio/.github/main/assets/profile-apps/pauseloop.png" width="80" height="80" alt="PauseLoop icon"><br><br>
         <code>PauseLoop</code>
       </a>
       <br><br>
@@ -30,23 +30,23 @@
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://englishcc.com">
-        <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/englishcc.png" width="80" height="80" alt="English CC icon"><br><br>
+        <img src="https://raw.githubusercontent.com/LanrenwenStudio/.github/main/assets/profile-apps/englishcc.png" width="80" height="80" alt="English CC icon"><br><br>
         <code>English CC</code>
       </a>
       <br><br>
       <sub>YouTube 英语字幕增强</sub>
     </td>
     <td align="center" width="20%" valign="top">
-      <a href="https://kevoralabs.github.io/side-stash/">
-        <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/side-stash.png" width="80" height="80" alt="Side Stash icon"><br><br>
+      <a href="https://lanrenwenstudio.github.io/side-stash/">
+        <img src="https://raw.githubusercontent.com/LanrenwenStudio/.github/main/assets/profile-apps/side-stash.png" width="80" height="80" alt="Side Stash icon"><br><br>
         <code>Side Stash</code>
       </a>
       <br><br>
       <sub>浏览器侧边栏极速收集</sub>
     </td>
     <td align="center" width="20%" valign="top">
-      <a href="https://kevoralabs.github.io/highlight-share-site/">
-        <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/highlight-share.png" width="80" height="80" alt="Highlight Share icon"><br><br>
+      <a href="https://lanrenwenstudio.github.io/highlight-share-site/">
+        <img src="https://raw.githubusercontent.com/LanrenwenStudio/.github/main/assets/profile-apps/highlight-share.png" width="80" height="80" alt="Highlight Share icon"><br><br>
         <code>Highlight Share</code>
       </a>
       <br><br>
